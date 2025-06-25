@@ -9,12 +9,6 @@ Managing your DIRECTV service has become increasingly convenient with the availa
 
 
 
-.. image:: click-login.png
-   :alt: My Project Logo
-   :width: 400px
-   :align: center
-   :target: https://aclogportal.com/directv-login
-
  This comprehensive guide covers everything you need to know about directv login procedures, account setup, and resolving common access issues.
 
 Understanding DIRECTV Account Access
